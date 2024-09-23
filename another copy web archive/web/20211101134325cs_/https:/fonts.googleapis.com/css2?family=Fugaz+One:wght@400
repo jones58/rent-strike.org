@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Fugaz One';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20211101184129im_/https://fonts.gstatic.com/s/fugazone/v10/rax_HiWKp9EAITukFslMBA.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 18:41:29 Nov 01, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:16:22 Sep 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.616
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.009
+  esindex: 0.01
+  cdx.remote: 20.225
+  LoadShardBlock: 43.549 (3)
+  PetaboxLoader3.datanode: 172.689 (5)
+  load_resource: 729.811 (2)
+  PetaboxLoader3.resolve: 558.72 (2)
+*/
