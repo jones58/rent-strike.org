@@ -1,0 +1,602 @@
+{
+  "urls": {
+    "4": {
+      "url": "http://rent-strike.org/api/1/performance/settings",
+      "folder": "html",
+      "filename": "9df6c23f88ba5b3f3d9d558b889cc536650f4216.00000004.json",
+      "filetime": "20210104134512",
+      "filesize": "2532",
+      "mimetype": "application/json",
+      "charset": "",
+      "url_original": "http://rent-strike.org/api/1/performance/settings"
+    }
+  }
+}
+{
+  "urls": {
+    "5": {
+      "url": "http://rent-strike.org/api/census/RecordHit",
+      "folder": "html",
+      "filename": "6585ec1860da12d023cf2782c03719ad1ec23413.00000005.json",
+      "filetime": "20210104134512",
+      "filesize": "17",
+      "mimetype": "application/json",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/api/census/RecordHit"
+    }
+  }
+}
+{
+  "urls": {
+    "6": {
+      "url": "http://rent-strike.org/apple-touch-icon.png",
+      "folder": "binary",
+      "filename": "4afb700fa2e5f0db8b74668a0b2c0b34194c9960.00000006.png",
+      "filetime": "20171031134736",
+      "filesize": "5831",
+      "mimetype": "image/png",
+      "charset": "",
+      "url_original": "http://rent-strike.org/apple-touch-icon.png"
+    }
+  }
+}
+{
+  "urls": {
+    "1": {
+      "url": "http://rent-strike.org/",
+      "folder": "html",
+      "filename": "192eb87cfd047288a09f6dd852bc7debb237d54d.00000001.html",
+      "filetime": "20211101134325",
+      "filesize": "54699",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/"
+    }
+  }
+}
+{
+  "urls": {
+    "2": {
+      "url": "http://rent-strike.org/action",
+      "folder": "html",
+      "filename": "f3c1c5b19eee02c07c6ce03bc76fe18b7e73caec.00000002.html",
+      "filetime": "20211102091236",
+      "filesize": "57088",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/action"
+    }
+  }
+}
+{
+  "urls": {
+    "3": {
+      "url": "http://rent-strike.org/aesthetics",
+      "folder": "html",
+      "filename": "e4f140d5149990c38a675ed829c46443a7dec6aa.00000003.html",
+      "filetime": "20211106064423",
+      "filesize": "52721",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/aesthetics"
+    }
+  }
+}
+{
+  "urls": {
+    "12": {
+      "url": "http://rent-strike.org/css/main.css",
+      "folder": "html",
+      "filename": "15cadb823aade3c1d23590ed09a1d7b5a08b42f1.00000012.css",
+      "filetime": "20171031151529",
+      "filesize": "1459",
+      "mimetype": "text/css",
+      "charset": "",
+      "url_original": "http://rent-strike.org/css/main.css"
+    }
+  }
+}
+{
+  "urls": {
+    "7": {
+      "url": "http://rent-strike.org/bme",
+      "folder": "html",
+      "filename": "4bfa26eeba7ddb3154918f2891038577265a9470.00000007.html",
+      "filetime": "20211104203852",
+      "filesize": "43773",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/bme"
+    }
+  }
+}
+{
+  "urls": {
+    "8": {
+      "url": "http://rent-strike.org/bulletin4",
+      "folder": "html",
+      "filename": "ad44e6b66ab39d9a87c8fa350e7b0cc0925464d9.00000008.html",
+      "filetime": "20211104203854",
+      "filesize": "47693",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/bulletin4"
+    }
+  }
+}
+{
+  "urls": {
+    "13": {
+      "url": "http://rent-strike.org/css/normalize.css",
+      "folder": "html",
+      "filename": "e0ce01e0105e9836ed3b1f3a3fec8184391333d8.00000013.css",
+      "filetime": "20171031145020",
+      "filesize": "1910",
+      "mimetype": "text/css",
+      "charset": "",
+      "url_original": "http://rent-strike.org/css/normalize.css"
+    }
+  }
+}
+{
+  "urls": {
+    "9": {
+      "url": "http://rent-strike.org/contact-us",
+      "folder": "html",
+      "filename": "7079abaee5f4e7e49bfcedb976bfbe55bb714a0c.00000009.html",
+      "filetime": "20211101224801",
+      "filesize": "103031",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/contact-us"
+    }
+  }
+}
+{
+  "urls": {
+    "17": {
+      "url": "http://rent-strike.org/favicon.ico",
+      "folder": "binary",
+      "filename": "d2926f7e36dfbdf25079c34a28e6b53df6611db2.00000017.ico",
+      "filetime": "20190509011849",
+      "filesize": "7406",
+      "mimetype": "image/x-icon",
+      "charset": "",
+      "url_original": "http://rent-strike.org/favicon.ico"
+    }
+  }
+}
+{
+  "urls": {
+    "10": {
+      "url": "http://rent-strike.org/coops",
+      "folder": "html",
+      "filename": "c8e55ef5196149b8b3e1a4697bd4aea8bf335fdc.00000010.html",
+      "filetime": "20211104203850",
+      "filesize": "56601",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/coops"
+    }
+  }
+}
+{
+  "urls": {
+    "11": {
+      "url": "http://rent-strike.org/covid19",
+      "folder": "html",
+      "filename": "67fdc3d44c197953a62303de68fa077346d64e0d.00000011.html",
+      "filetime": "20211102091242",
+      "filesize": "46481",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/covid19"
+    }
+  }
+}
+{
+  "urls": {
+    "15": {
+      "url": "http://rent-strike.org/eviction-resistance",
+      "folder": "html",
+      "filename": "7b8bbcace078d9a9abef0727cffeaacca920c8c1.00000015.html",
+      "filetime": "20211104211602",
+      "filesize": "56730",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/eviction-resistance"
+    }
+  }
+}
+{
+  "urls": {
+    "20": {
+      "url": "http://rent-strike.org/img/rswk-med.jpg",
+      "folder": "binary",
+      "filename": "8a762290534ad50f6026828d5236bb7244cfc9a4.00000020.jpg",
+      "filetime": "20171031132014",
+      "filesize": "349601",
+      "mimetype": "image/jpeg",
+      "charset": "",
+      "url_original": "http://rent-strike.org/img/rswk-med.jpg"
+    }
+  }
+}
+{
+  "urls": {
+    "14": {
+      "url": "http://rent-strike.org/disabilities",
+      "folder": "html",
+      "filename": "b25b9d10063b330cc7c75906ff389b461fbbd320.00000014.html",
+      "filetime": "20211104211559",
+      "filesize": "43821",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/disabilities"
+    }
+  }
+}
+{
+  "urls": {
+    "16": {
+      "url": "http://rent-strike.org/facilitation",
+      "folder": "html",
+      "filename": "cf01fe9821127c60f41880d470082378a4312ea4.00000016.html",
+      "filetime": "20211104211552",
+      "filesize": "48852",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/facilitation"
+    }
+  }
+}
+{
+  "urls": {
+    "22": {
+      "url": "http://rent-strike.org/js/plugins.js",
+      "folder": "html",
+      "filename": "555107d0c38f110004a9647eab35d5eb54b78e75.00000022.js",
+      "filetime": "20171031124930",
+      "filesize": "450",
+      "mimetype": "application/javascript",
+      "charset": "",
+      "url_original": "http://rent-strike.org/js/plugins.js"
+    }
+  }
+}
+{
+  "urls": {
+    "23": {
+      "url": "http://rent-strike.org/js/vendor/modernizr-2.8.3.min.js",
+      "folder": "html",
+      "filename": "5687ab787249181377d3b43a1c99c6b9cea3b66b.00000023.js",
+      "filetime": "20171031121326",
+      "filesize": "14855",
+      "mimetype": "application/javascript",
+      "charset": "",
+      "url_original": "http://rent-strike.org/js/vendor/modernizr-2.8.3.min.js"
+    }
+  }
+}
+{
+  "urls": {
+    "18": {
+      "url": "http://rent-strike.org/history",
+      "folder": "html",
+      "filename": "4d4dd30f80548a739962b92edd862857a25675d6.00000018.html",
+      "filetime": "20211104203845",
+      "filesize": "53115",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/history"
+    }
+  }
+}
+{
+  "urls": {
+    "19": {
+      "url": "http://rent-strike.org/how-to",
+      "folder": "html",
+      "filename": "d1642a7aa6b2e91d3e7d678e729978095b81a89e.00000019.html",
+      "filetime": "20211102091238",
+      "filesize": "49440",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/how-to"
+    }
+  }
+}
+{
+  "urls": {
+    "21": {
+      "url": "http://rent-strike.org/internationalstudents",
+      "folder": "html",
+      "filename": "25c086de3cd1010dd1598d7c2b6d1f4e28f1c094.00000021.html",
+      "filetime": "20211104203900",
+      "filesize": "47290",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/internationalstudents"
+    }
+  }
+}
+{
+  "urls": {
+    "24": {
+      "url": "http://rent-strike.org/legal",
+      "folder": "html",
+      "filename": "65211c29d985ab08f90f5d648f70cf2b455a85ec.00000024.html",
+      "filetime": "20211102091244",
+      "filesize": "51248",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/legal"
+    }
+  }
+}
+{
+  "urls": {
+    "25": {
+      "url": "http://rent-strike.org/lgbt",
+      "folder": "html",
+      "filename": "8636c3e3c781e4ef16efb2307371dd643819e89b.00000025.html",
+      "filetime": "20211104205809",
+      "filesize": "48583",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/lgbt"
+    }
+  }
+}
+{
+  "urls": {
+    "26": {
+      "url": "http://rent-strike.org/making-rent-strikes-cool",
+      "folder": "html",
+      "filename": "c2d528dc9b9c3b28ea611f6d26e983223a368c0f.00000026.html",
+      "filetime": "20211104191302",
+      "filesize": "67729",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/making-rent-strikes-cool"
+    }
+  }
+}
+{
+  "urls": {
+    "27": {
+      "url": "http://rent-strike.org/media-playing-the-game",
+      "folder": "html",
+      "filename": "f61c313635dedfccde61582dcc32081174bf231c.00000027.html",
+      "filetime": "20211104211557",
+      "filesize": "61117",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/media-playing-the-game"
+    }
+  }
+}
+{
+  "urls": {
+    "28": {
+      "url": "http://rent-strike.org/negotiations",
+      "folder": "html",
+      "filename": "351cae44bf203912b45acb7cfe8604e7d69c5bbf.00000028.html",
+      "filetime": "20211104191305",
+      "filesize": "52815",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/negotiations"
+    }
+  }
+}
+{
+  "urls": {
+    "34": {
+      "url": "http://rent-strike.org/robots.txt",
+      "folder": "html",
+      "filename": "0700f59fd457533ded6577462594c1121724be85.00000034.txt",
+      "filetime": "20210508100255",
+      "filesize": "2798",
+      "mimetype": "text/plain",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/robots.txt"
+    }
+  }
+}
+{
+  "urls": {
+    "29": {
+      "url": "http://rent-strike.org/new-events",
+      "folder": "html",
+      "filename": "5a2b53ef165103e48e084102bbe21b7e2f89ffb3.00000029.html",
+      "filetime": "20211104191307",
+      "filesize": "61848",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/new-events"
+    }
+  }
+}
+{
+  "urls": {
+    "30": {
+      "url": "http://rent-strike.org/news",
+      "folder": "html",
+      "filename": "0be27d7dc7cd0469a88355756af6b515a92bc5f0.00000030.html",
+      "filetime": "20211104203848",
+      "filesize": "62887",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/news"
+    }
+  }
+}
+{
+  "urls": {
+    "31": {
+      "url": "http://rent-strike.org/organisation",
+      "folder": "html",
+      "filename": "bbc009b8d5045a811ad4119e835908c92bf5e98f.00000031.html",
+      "filetime": "20211104205811",
+      "filesize": "54268",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/organisation"
+    }
+  }
+}
+{
+  "urls": {
+    "32": {
+      "url": "http://rent-strike.org/rentstrikeendgame",
+      "folder": "html",
+      "filename": "8cc273a72d5704884d00329e56e615ec9bbbc6b1.00000032.html",
+      "filetime": "20211104191255",
+      "filesize": "46106",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/rentstrikeendgame"
+    }
+  }
+}
+{
+  "urls": {
+    "33": {
+      "url": "http://rent-strike.org/research",
+      "folder": "html",
+      "filename": "22e5030284f201e35782fb0a80ca37d1d43d1d1f.00000033.html",
+      "filetime": "20211104191258",
+      "filesize": "51664",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/research"
+    }
+  }
+}
+{
+  "urls": {
+    "36": {
+      "url": "http://rent-strike.org/sign-up",
+      "folder": "html",
+      "filename": "f513cb4af6959354ad93d205490cd1068daaecaa.00000036.html",
+      "filetime": "20211104211554",
+      "filesize": "329357",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/sign-up"
+    }
+  }
+}
+{
+  "urls": {
+    "35": {
+      "url": "http://rent-strike.org/self-care-collective-care",
+      "folder": "html",
+      "filename": "50cc103068b4825335253a5713ad2758dfe01855.00000035.html",
+      "filetime": "20211104205806",
+      "filesize": "57275",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/self-care-collective-care"
+    }
+  }
+}
+{
+  "urls": {
+    "37": {
+      "url": "http://rent-strike.org/strategy",
+      "folder": "html",
+      "filename": "e0aa5e51b93d2a4f8ab49bc509f775a02c3951e0.00000037.html",
+      "filetime": "20211104205813",
+      "filesize": "58994",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/strategy"
+    }
+  }
+}
+{
+  "urls": {
+    "38": {
+      "url": "http://rent-strike.org/striking-at-the-intersections",
+      "folder": "html",
+      "filename": "3b020390be18ea092d565c9bd1e3faff6664c558.00000038.html",
+      "filetime": "20211102091240",
+      "filesize": "59216",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/striking-at-the-intersections"
+    }
+  }
+}
+{
+  "urls": {
+    "39": {
+      "url": "http://rent-strike.org/studentunions",
+      "folder": "html",
+      "filename": "8b993a4c7ed25d2ed94ad884020e42517e80a81f.00000039.html",
+      "filetime": "20211102091248",
+      "filesize": "53038",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/studentunions"
+    }
+  }
+}
+{
+  "urls": {
+    "40": {
+      "url": "http://rent-strike.org/sustain-the-strike",
+      "folder": "html",
+      "filename": "20f798004fb939adf9892d121d8cc4c1243a65b6.00000040.html",
+      "filetime": "20211104205815",
+      "filesize": "49548",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/sustain-the-strike"
+    }
+  }
+}
+{
+  "urls": {
+    "41": {
+      "url": "http://rent-strike.org/tenants-of-the-world-unite",
+      "folder": "html",
+      "filename": "79a2c72254b962d74ca932f38ec588f8c60af3eb.00000041.html",
+      "filetime": "20211102091246",
+      "filesize": "52367",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/tenants-of-the-world-unite"
+    }
+  }
+}
+{
+  "urls": {
+    "43": {
+      "url": "http://rent-strike.org/womxn",
+      "folder": "html",
+      "filename": "fc1785240a663ea04e480e940b2d68a55b3a7342.00000043.html",
+      "filetime": "20211104205818",
+      "filesize": "51540",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/womxn"
+    }
+  }
+}
+{
+  "urls": {
+    "42": {
+      "url": "http://rent-strike.org/universities",
+      "folder": "html",
+      "filename": "ba3222a057275ddc885ef31e1ca1f689f03f8dc4.00000042.html",
+      "filetime": "20211104203902",
+      "filesize": "75671",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://rent-strike.org/universities"
+    }
+  }
+}
