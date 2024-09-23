@@ -2,7 +2,12 @@
 
 ## Process
 
-Rebuilding this site from the Internet Archive Copy of it. It was previously hosted on Squarespace, but with hosting fees being high and the content no longer being edited, it makes sense to host this a static site using Astro. I initially wanted to rebuild the complicated header structure, but in the end realised it made sense to use Starlight as a template. Since the site is mostly text based, this approach makes sense.
+Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web/20211101134325/https://www.rent-strike.org/). It was previously hosted on Squarespace, but with hosting fees being high and the content no longer being edited, it makes sense to host this a static site using Astro. I initially wanted to rebuild the complicated header structure, but in the end realised it made sense to use Starlight as a template to structure the whole site. Since the site is mostly text based, this approach makes sense and will allow fast implementation.
+
+## TODO
+
+- add navigation bar with [this](https://starlight.astro.build/guides/sidebar/)
+- just grab md files for every page from internet archive copy using [this tool](https://web2md.answer.ai/)
 
 # Starlight Starter Kit: Basics
 
