@@ -6,11 +6,11 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "RENT STRIKE",
-
+      tableOfContents: false,
       sidebar: [
         {
-          label: "How To",
-          autogenerate: { directory: "how to" },
+          label: "Rent Strike",
+          autogenerate: { directory: "all" },
         },
       ],
     }),
