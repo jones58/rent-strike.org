@@ -8,8 +8,8 @@ Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web
 
 - just grab md files for every page from internet archive copy using [this tool](https://web2md.answer.ai/)
 - display sidebar items in custom order, rather than alphabetical (mirror old site)
-- put why we strike (index.mdx/homepage) in the sidebar.
-- don't show right sidebar (on this page)
+- umami analytics
+- add welcome page or welcome/how to use this site bits to the why we strike doc (homepage/ index.mdx)
 
 # Starlight Starter Kit: Basics
 
