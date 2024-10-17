@@ -4,7 +4,7 @@ title: Recent
 
 # Rent Strike Timeline
 
-![Group of students on the street in London with a banner that reads "Rent Strikes Work"](./src/assets/recent/rentstrikeswork.png)
+![Group of students on the street in London with a banner that reads "Rent Strikes Work"](/src/assets/recent/rentstrikeswork.png)
 
 ### Pre-Spring 2015 Background
 
