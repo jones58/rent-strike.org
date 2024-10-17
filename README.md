@@ -7,6 +7,8 @@ Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web
 ## TODO
 
 - just grab md files for every page from internet archive copy using [this tool](https://web2md.answer.ai/)
+- Fix broken src links on live site (see vercel preview). work out how to link properly.
+- connect up domain in vercel
 - display sidebar items in custom order, rather than alphabetical (mirror old site)
 - add welcome page or welcome/how to use this site bits to the why we strike doc (homepage/ index.mdx)
 - better alt text throughout, like on action! page
