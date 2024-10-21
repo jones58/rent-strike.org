@@ -4,7 +4,7 @@ title: Brief
 
 # Rent Strikes: a Brief History
 
-![Sussex Student raises red flag above a university building](/src/assets/history/sussex.png)
+![Sussex Student raises red flag above a university building](/assets/history/sussex.png)
 
 The history of the rent strike in the UK is a colourful and rich one. It is a history of the council estate, of the modern university campus and of the private tenant. It is a history of struggle, of glimmers of hope amongst the dark history of capitalism, extraordinary tales of solidarity and perhaps most importantly, proof that rent strikes can work. Organisers of current rent strikes would do well to learn from historical precedents—here drawn from British history, although rent strikes elsewhere around the globe are similarly inspiring and informative—and draw experience from these events to inform the organisation of their own strikes.
 
