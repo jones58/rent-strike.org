@@ -11,10 +11,11 @@ export default defineConfig({
     starlight({
       title: "RENT STRIKE",
       customCss: ["./src/styles.css"],
+      favicon: "./logo.png",
       tableOfContents: false,
       sidebar: [
         {
-          label: "Rent Strike",
+          label: "Start Here",
           autogenerate: { directory: "all" },
         },
       ],
