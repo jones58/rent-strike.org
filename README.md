@@ -6,6 +6,8 @@ Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web
 
 ## TODO
 
+- proper links, like on brief history page
+- add more photos
 - add welcome page or welcome/how to use this site bits to the why we strike doc (edit index.mdx), about this site page
 - better alt text throughout, like on action! page
 - seo, google search console etc.
