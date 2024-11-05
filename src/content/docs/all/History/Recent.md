@@ -1,8 +1,9 @@
 ---
-title: Recent
+title: Rent Strike Recent Timeline
+sidebar:
+  label: Recent
+  order: 1.2
 ---
-
-# Rent Strike Timeline
 
 ![Group of students on the street in London with a banner that reads "Rent Strikes Work"](/assets/recent/rentstrikeswork.png)
 

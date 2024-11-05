@@ -1,8 +1,9 @@
 ---
-title: "Media: Playing the Game"
+title: "Playing the Media Game: How to Use Media to Build Your Campaign"
+sidebar:
+  order: 8
+  label: "Media: Playing the Game"
 ---
-
-# PLAYING THE MEDIA GAME: HOW TO USE MEDIA TO BUILD YOUR CAMPAIGN
 
 Utilisation of the media will be an essential part of your campaign. It can be used to shame your university and threaten one of its most important tools for attracting students and money: its reputation.
 

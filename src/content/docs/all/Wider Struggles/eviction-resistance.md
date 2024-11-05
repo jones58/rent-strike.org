@@ -1,5 +1,7 @@
 ---
 title: Eviction resistance
+sidebar:
+  order: 21
 ---
 
 ### The experience of PAH (Plataforma de Afectados por la Hipoteca - Platform for people affected by mortgages) , Ada Colau, 1st July 2011

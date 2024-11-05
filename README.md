@@ -2,13 +2,10 @@
 
 ## Process
 
-Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web/20211101134325/https://www.rent-strike.org/). It was previously hosted on Squarespace, but with hosting fees being high and the content no longer being edited, it makes sense to host this a static site using Astro. I initially wanted to rebuild the complicated header structure, but in the end realised it made sense to use Starlight as a template to structure the whole site. Since the site is mostly text based, this approach makes sense and will allow fast implementation.
+Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web/20211101134325/https://www.rent-strike.org/). It was previously hosted on Squarespace, but with hosting fees being high and the content no longer being edited, it makes sense to host this a static site using Astro. I initially wanted to rebuild the complicated header structure, but in the end realised it made sense to use Starlight as a template to structure the whole site. Since the site is mostly text based, this approach makes sense and will allow fast implementation. I grabbed md files for every page from internet archive copy using [this tool](https://web2md.answer.ai/).
 
 ## TODO
 
-- just grab md files for every page from internet archive copy using [this tool](https://web2md.answer.ai/)
-- Fix broken src links on live site (see vercel preview). work out how to link properly.
-- connect up domain in vercel
 - display sidebar items in custom order, rather than alphabetical (mirror old site)
 - add welcome page or welcome/how to use this site bits to the why we strike doc (homepage/ index.mdx)
 - better alt text throughout, like on action! page

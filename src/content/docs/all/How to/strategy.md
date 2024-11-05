@@ -1,9 +1,10 @@
 ---
-title: Strategy
+title: "Planning An Offensive: Developing A Strategy To Win"
 description: Introduction to Rent Strike
+sidebar:
+  label: Strategy
+  order: 1.5
 ---
-
-## Planning an offensive: developing a strategy to win
 
 So you’ve decided to organise a rent strike, but what do you now? Designing an effective strategy will help you plan the initial stages of the campaign, withstand the pressure of a management fightback and help participants make democratic decisions as the campaign draws on.
 

@@ -1,8 +1,9 @@
 ---
-title: Tenants Of The World Unite
+title: "Tenants Of The World Unite: Wider Housing Struggles and How Students Can Support Them"
+sidebar:
+  order: 20
+  label: Tenants Of The World Unite
 ---
-
-### Wider housing struggles and how students can support them
 
 Of course, we recommend that students in private accommodation join their local renters’ union - whether that be their local ACORN branch (cities outside of London) or London Renters’ Union.
 

@@ -1,8 +1,9 @@
 ---
-title: Research
+title: Research Like a Real Smug Journo
+sidebar:
+  order: 2
+  label: Research
 ---
-
-# **Research Like a Real Smug Journo**
 
 Research provides the material basis of your campaign: all the stats, figures and whatnot that make you look serious and like you know what you’re doing. Good, snappy figures do wonders in press releases, interviews, and in people’s minds. And it doesn’t take an expert journalist find some good ones!
 

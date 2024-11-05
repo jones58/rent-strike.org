@@ -1,5 +1,7 @@
 ---
 title: Facilitation
+sidebar:
+  order: 9
 ---
 
 When building and mobilising for a rent strike you are going to have meetings. Depending on how well these meetings are organised and facilitated they can end up being super productive and empowering! The point of meetings is to discuss and decide what stuff needs to be done, when it needs to be done, who should do it and how. In particular it is important to discuss the aims and politics of your group and have space and time to talk these things through. As a facilitator (or chair) your job is to facilitate the discussion of the whole group. This means:

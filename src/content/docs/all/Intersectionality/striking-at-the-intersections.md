@@ -1,10 +1,10 @@
 ---
-title: Striking At The Intersections
+title: "Striking At The Intersections: How To Not Oppress Your Friends"
+sidebar:
+  label: Striking at the Intersections
 ---
 
-### Striking At The Intersections: how to not oppress your friends
-
-**Artwork from the ‘Art in the time of Black Power’ exhibit by Emory Douglas**
+**TODO Add Artwork from the ‘Art in the time of Black Power’ exhibit by Emory Douglas**
 
 ‘Intersectionality’ refers to the structural oppression individuals experience from the overlap of various social identities, such as gender, race, class, sexuality and disability. While the term was only coined in 1989 by Kimberlé Williams Crenshaw, we know that intersectionality has always existed. Historical examples of struggle often always originates from those that are the least privileged in society.
 

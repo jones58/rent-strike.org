@@ -1,5 +1,7 @@
 ---
 title: Self Care/Collective Care
+sidebar:
+  order: 10
 ---
 
 Activism and fighting for things you care about can be damaging- you put too much time and effort into projects, burn out, exhaust yourself and in the end the whole campaign suffers. Obviously this sucks, not least because the **distribution of workloads in activist groups is often gendered and racialized** , leaving women, non-binary people, and people of colour more prone to burnout. Those who do the care that is \__**fundamental** to campaign success often do not get cared for and do not find the kind of comfort they’re supposed to in organising. So there’s an important politics and distribution of power \_within_ care that we need to be aware of and challenged.

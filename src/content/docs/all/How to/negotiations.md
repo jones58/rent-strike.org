@@ -1,5 +1,7 @@
 ---
 title: Negotiations
+sidebar:
+  order: 5
 ---
 
 At some point or another you’re going to have to negotiate with management. It’s important to know what you’re doing in these circumstances because more often than not you’re not going to have much experience and management will use theirs to mess you around and try to undermine the campaign. Here’s 10 top tips from previous negotiations by Goldsmiths Anti-Racist Action, UCL Cut the Rent and Sussex Cut the Rent:

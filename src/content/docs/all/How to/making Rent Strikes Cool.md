@@ -1,5 +1,7 @@
 ---
 title: Making Rent Strikes Cool
+sidebar:
+  order: 7
 ---
 
 Campaigns within the confines of University Accommodation have to be built within a year. Rent strikers will mostly be freshers who know nothing about Cut the Rent campaigns or rent market prices. Given they can’t all be politicised in that time, rent strikes must become the cool thing for freshers to do at your university -- this will give you the numbers necessary to win. Trying to promote self image and being edgy is not just a sound political strategy, it’s a vital goal. Here are some hot takes on how to make your campaign cool af:

@@ -1,8 +1,9 @@
 ---
-title: Brief
+title: "Rent Strikes: a Brief History"
+sidebar:
+  label: Brief
+  order: 1.1
 ---
-
-# Rent Strikes: a Brief History
 
 ![Sussex Student raises red flag above a university building](/assets/history/sussex.png)
 

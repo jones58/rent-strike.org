@@ -1,8 +1,9 @@
 ---
-title: Legal
+title: "Legal Talk: How to Get Away with Rent Strikes"
+sidebar:
+  order: 6
+  label: Legal
 ---
-
-### Legal Talk: How to Get Away with Rent Strikes
 
 The NUS instructed Bindmans LLP to develop the guidance below in May 2016. Making yourself aware of the general guidance above is a good starting point for students thinking of going on rent strike, but we still urge students and organisers to seek specific legal advice as they see fit.
 

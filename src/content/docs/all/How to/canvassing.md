@@ -1,8 +1,9 @@
 ---
-title: Canvassing
+title: Gassed to Canvass
+sidebar:
+  order: 3
+  label: Canvassing
 ---
-
-## Gassed to Canvass
 
 Whether your Cut the Rent group is building for demos, fundraisers, a rent strike, a general meeting, disrupting university events... The best way to drum up support can often be the same: talking to people one-on-one. Door-knocking helps create both a presence of your campaign on the campus as well as personal relationships between students.
 

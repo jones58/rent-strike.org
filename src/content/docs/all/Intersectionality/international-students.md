@@ -1,8 +1,8 @@
 ---
-title: International Students
+title: International Students in your campaign
+sidebar:
+  label: International Students
 ---
-
-### International Students in your campaign
 
 The vast majority of international students in the UK are in higher education. International students from outside the European Economic Area (and soon, potentially, from the EEA too) are often treated as nothing more than sources of revenue; from expensive visa application charges to unlimited tuition fees, international students are squeezed for money from every angle.
 
