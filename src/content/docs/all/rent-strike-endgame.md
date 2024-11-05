@@ -12,8 +12,8 @@ Scribe: takes notes on what happens over the course of the game so players and M
 
 Groups of 8-10 people
 
-Our scribe and MC pack which can be found here
+Our scribe and MC pack which can be found [here](/assets/endgame/EndGameMCAndScribePack.pdf)
 
-Our player pack here
+Our player pack [here](/assets/endgame/EndGamePlayerPack.pdf)
 
 Enjoy!

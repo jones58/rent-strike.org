@@ -6,30 +6,13 @@ Rebuilding this site from an [Internet Archive Copy](https://web.archive.org/web
 
 ## TODO
 
-- display sidebar items in custom order, rather than alphabetical (mirror old site)
-- add welcome page or welcome/how to use this site bits to the why we strike doc (homepage/ index.mdx)
+- add welcome page or welcome/how to use this site bits to the why we strike doc (edit index.mdx), about this site page
 - better alt text throughout, like on action! page
-- maybe edit on github like on knowledge wiki
-- aesthetics link
-- about this site page
-- seo
-
-# Starlight Starter Kit: Basics
-
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
-
-```
-npm create astro@latest -- --template starlight
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- seo, google search console etc.
 
 ## 🚀 Project Structure
+
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
 Inside of your Astro + Starlight project, you'll see the following folders and files:
 
