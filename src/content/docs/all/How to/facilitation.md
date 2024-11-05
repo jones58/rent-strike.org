@@ -22,5 +22,6 @@ Unfortunately classism, racism, patriarchy, and other forms of oppression are le
 
 ### Here are some resources that can guide you on how to best organise and facilitate!
 
-- https://www.seedsforchange.org.uk/shortfacilitation \- Seeds for Change is a UK group that provides support with facilitation, consensus based decisions making, and mediation. -http://studenthandbook.ourproject.org/book/c1.html#holding-a-meeting \- This is an extract on facilitating meetings from the Student Organisers Handbook.
-- http://studentstrike.net/2-building-the-movement/direct-democracy/index.html \- For large-scale meetings the radical and democratic student union ASSE in Quebec has a wealth of knowledge on how to hold good ones and make them highly participatory!
+- [Seeds for Change](https://www.seedsforchange.org.uk/shortfacilitation) is a UK group that provides support with facilitation, consensus based decisions making, and mediation.
+- [This](http://studenthandbook.ourproject.org/book/c1.html#holding-a-meeting) is an extract on facilitating meetings from the Student Organisers Handbook.
+- For large-scale meetings the radical and democratic student union ASSE in Quebec has a [wealth of knowledge](http://studentstrike.net/2-building-the-movement/direct-democracy/index.html) on how to hold good ones and make them highly participatory!

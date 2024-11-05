@@ -2,7 +2,7 @@
 title: "Rent Strikes: a Brief History"
 sidebar:
   label: Brief
-  order: 1.1
+  order: 5
 ---
 
 ![Sussex Student raises red flag above a university building](/assets/history/sussex.png)
@@ -25,38 +25,18 @@ This is by no means a conclusive account of the history of rent strikes, the lin
 
 ## **Bibliography**
 
-General history:
+[General history](https://www.nusconnect.org.uk/resources/students-on-rent-strike/download_attachment)
 
-- https://www.nusconnect.org.uk/resources/students-on-rent-strike/download_attachment
+[Rent strikes at University of Sussex](https://www.solfed.org.uk/sites/default/files/uploads/student_radicals.pdf)
 
-Rent strikes at University of Sussex:
+[Mary Barbour and the 1915 Glasgow rent strike](http://whatsleftinus.wixsite.com/rentstrikes/podcast) and [more information here](https://remembermarybarbour.wordpress.com)
 
-- https://www.solfed.org.uk/sites/default/files/uploads/student_radicals.pdf
+[1960 St Pancras Rent Strike](http://www.academia.edu/31788573/Rent_Strike_May_Day)
 
-Mary Barbour and the 1915 Glasgow rent strike:
+[The Great Dock Strike of 1889](http://www.portcities.org.uk/london/server/show/ConNarrative.77/chapterId/1860/The-Great-Dock-Strike-of-1889.html)
 
-http://whatsleftinus.wixsite.com/rentstrikes/podcast
+[Rent strike at University of Warwick](https://theboar.org/2010/05/crisis-and-cliche-history/)
 
-https://remembermarybarbour.wordpress.com
+[1973 nation-wide rent strike](https://www.nusconnect.org.uk/articles/nus-a-history-of-protest)
 
-1960 St Pancras Rent Strike:
-
-http://www.academia.edu/31788573/Rent_Strike_May_Day
-
-The Great Dock Strike of 1889:
-
-http://www.portcities.org.uk/london/server/show/ConNarrative.77/chapterId/1860/The-Great-Dock-Strike-of-1889.html
-
-Rent strike at University of Warwick:
-
-https://theboar.org/2010/05/crisis-and-cliche-history/
-
-1973 nation-wide rent strike:
-
-https://www.nusconnect.org.uk/articles/nus-a-history-of-protest
-
-Kirby rent strike:
-
-http://libcom.org/blog/kirkby-rent-strike-1972-documentary-08042012
-
-https://player.bfi.org.uk/free/film/watch-tenants-in-revolt-1939-online
+[Kirby rent strike](http://libcom.org/blog/kirkby-rent-strike-1972-documentary-08042012) and [more information here](https://player.bfi.org.uk/free/film/watch-tenants-in-revolt-1939-online)
